@@ -1,50 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2021-06-13T18:23:01.331Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="M-hInNFvJbM0_4Z-nQh0" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-13T18:29:58.850Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="q2xr473RQiRlFGjN0P-c" version="14.7.7" type="github">
   <diagram id="fMiZLMUCVI8iWY2dc57c" name="Page-1">
     <mxGraphModel dx="1406" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QDdT4qw3rxaA8x-jhM9g-22" value="Hypex Fusion 253" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="230" y="50" width="280" height="390" as="geometry" />
+        <mxCell id="QDdT4qw3rxaA8x-jhM9g-24" value="Speaker" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="100" width="376" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="QDdT4qw3rxaA8x-jhM9g-2" value="Tweeter" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;" vertex="1" parent="1">
-          <mxGeometry x="560" y="85" width="25" height="50" as="geometry" />
+        <mxCell id="QDdT4qw3rxaA8x-jhM9g-25" value="Power" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="QDdT4qw3rxaA8x-jhM9g-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="335" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="QDdT4qw3rxaA8x-jhM9g-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QDdT4qw3rxaA8x-jhM9g-3" target="QDdT4qw3rxaA8x-jhM9g-2">
+        <mxCell id="QDdT4qw3rxaA8x-jhM9g-22" value="Hypex Fusion 253" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="140" width="280" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="QDdT4qw3rxaA8x-jhM9g-2" value="Tweeter" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="175" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QDdT4qw3rxaA8x-jhM9g-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="QDdT4qw3rxaA8x-jhM9g-3" target="QDdT4qw3rxaA8x-jhM9g-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QDdT4qw3rxaA8x-jhM9g-3" value="Hypex amp 100W" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.controlled_amplifier;" vertex="1" parent="1">
-          <mxGeometry x="393" y="80" width="50" height="50" as="geometry" />
+        <mxCell id="QDdT4qw3rxaA8x-jhM9g-3" value="Hypex amp 100W" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.controlled_amplifier;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="393" y="170" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QDdT4qw3rxaA8x-jhM9g-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QDdT4qw3rxaA8x-jhM9g-4" target="QDdT4qw3rxaA8x-jhM9g-6">
+        <mxCell id="QDdT4qw3rxaA8x-jhM9g-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="QDdT4qw3rxaA8x-jhM9g-4" target="QDdT4qw3rxaA8x-jhM9g-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QDdT4qw3rxaA8x-jhM9g-4" value="Hypex amp 250W" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.controlled_amplifier;" vertex="1" parent="1">
-          <mxGeometry x="390" y="170" width="100" height="90" as="geometry" />
+        <mxCell id="QDdT4qw3rxaA8x-jhM9g-4" value="Hypex amp 250W" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.controlled_amplifier;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="390" y="260" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="QDdT4qw3rxaA8x-jhM9g-6" value="Manger" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;" vertex="1" parent="1">
-          <mxGeometry x="536" y="175" width="50" height="100" as="geometry" />
+        <mxCell id="QDdT4qw3rxaA8x-jhM9g-6" value="Manger" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="536" y="265" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="QDdT4qw3rxaA8x-jhM9g-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QDdT4qw3rxaA8x-jhM9g-16" target="QDdT4qw3rxaA8x-jhM9g-17">
+        <mxCell id="QDdT4qw3rxaA8x-jhM9g-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="QDdT4qw3rxaA8x-jhM9g-16" target="QDdT4qw3rxaA8x-jhM9g-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QDdT4qw3rxaA8x-jhM9g-16" value="Hypex amp 250W" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.controlled_amplifier;" vertex="1" parent="1">
-          <mxGeometry x="390" y="300" width="100" height="90" as="geometry" />
+        <mxCell id="QDdT4qw3rxaA8x-jhM9g-16" value="Hypex amp 250W" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.controlled_amplifier;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="390" y="390" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="QDdT4qw3rxaA8x-jhM9g-17" value="Woofer" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;" vertex="1" parent="1">
-          <mxGeometry x="536" y="305" width="50" height="100" as="geometry" />
+        <mxCell id="QDdT4qw3rxaA8x-jhM9g-17" value="Woofer" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="536" y="395" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="QDdT4qw3rxaA8x-jhM9g-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QDdT4qw3rxaA8x-jhM9g-18" target="QDdT4qw3rxaA8x-jhM9g-3">
+        <mxCell id="QDdT4qw3rxaA8x-jhM9g-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="QDdT4qw3rxaA8x-jhM9g-18" target="QDdT4qw3rxaA8x-jhM9g-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QDdT4qw3rxaA8x-jhM9g-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QDdT4qw3rxaA8x-jhM9g-18" target="QDdT4qw3rxaA8x-jhM9g-4">
+        <mxCell id="QDdT4qw3rxaA8x-jhM9g-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="QDdT4qw3rxaA8x-jhM9g-18" target="QDdT4qw3rxaA8x-jhM9g-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QDdT4qw3rxaA8x-jhM9g-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QDdT4qw3rxaA8x-jhM9g-18" target="QDdT4qw3rxaA8x-jhM9g-16">
+        <mxCell id="QDdT4qw3rxaA8x-jhM9g-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="QDdT4qw3rxaA8x-jhM9g-18" target="QDdT4qw3rxaA8x-jhM9g-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QDdT4qw3rxaA8x-jhM9g-18" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.dac;" vertex="1" parent="1">
-          <mxGeometry x="240" y="192" width="80" height="46" as="geometry" />
+        <mxCell id="QDdT4qw3rxaA8x-jhM9g-26" value="SPDIF" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="QDdT4qw3rxaA8x-jhM9g-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDdT4qw3rxaA8x-jhM9g-18" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.dac;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="282" width="80" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="QDdT4qw3rxaA8x-jhM9g-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="QDdT4qw3rxaA8x-jhM9g-29" target="QDdT4qw3rxaA8x-jhM9g-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QDdT4qw3rxaA8x-jhM9g-31" value="Connector" style="edgeLabel;html=1;align=center;verticalAlign=top;resizable=0;points=[];labelPosition=center;verticalLabelPosition=bottom;" vertex="1" connectable="0" parent="QDdT4qw3rxaA8x-jhM9g-30">
+          <mxGeometry x="-0.084" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDdT4qw3rxaA8x-jhM9g-29" value="Hypex Remote" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="436" y="570" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
