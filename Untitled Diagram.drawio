@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-06-13T18:18:41.614Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="RFKMoYANURBjsrge1eEz" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-13T18:23:01.331Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="M-hInNFvJbM0_4Z-nQh0" version="14.7.7" type="github">
   <diagram id="fMiZLMUCVI8iWY2dc57c" name="Page-1">
     <mxGraphModel dx="1406" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QDdT4qw3rxaA8x-jhM9g-22" value="Hypex Fusion 253" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="230" y="50" width="280" height="390" as="geometry" />
+        </mxCell>
         <mxCell id="QDdT4qw3rxaA8x-jhM9g-2" value="Tweeter" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;" vertex="1" parent="1">
           <mxGeometry x="560" y="85" width="25" height="50" as="geometry" />
         </mxCell>
@@ -11,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QDdT4qw3rxaA8x-jhM9g-3" value="Hypex amp 100W" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.controlled_amplifier;" vertex="1" parent="1">
-          <mxGeometry x="390" y="80" width="50" height="50" as="geometry" />
+          <mxGeometry x="393" y="80" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QDdT4qw3rxaA8x-jhM9g-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="QDdT4qw3rxaA8x-jhM9g-4" target="QDdT4qw3rxaA8x-jhM9g-6">
           <mxGeometry relative="1" as="geometry" />
