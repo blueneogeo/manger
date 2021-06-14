@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T09:11:44.456Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="N1z16J-PzAPn24M6Jc_G" version="14.7.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-14T12:24:33.790Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="ljtXhR5SNpl4mKQJKr2z" version="14.7.7" type="github" pages="2">
   <diagram id="fMiZLMUCVI8iWY2dc57c" name="Fully digital speaker">
     <mxGraphModel dx="1406" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Digital with Omtec" id="9saRNkkZXPfNSdjAiMoX">
-    <mxGraphModel dx="2386" dy="1457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2575" dy="1608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="n5gj3eQViuhBKTqbPO1P-0" />
         <mxCell id="n5gj3eQViuhBKTqbPO1P-1" parent="n5gj3eQViuhBKTqbPO1P-0" />
